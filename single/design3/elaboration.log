@@ -1,0 +1,16 @@
+elbread.dll ver. 1.0.5.365 Wed Dec 17 00:48:31 2025
+
+
+---------------------------------------
+Entity      | Architecture    | Library
+---------------------------------------
+control_tb  | tb_architecture | design3
+control     | control         | design3
+---------------------------------------
+
+-------------------------
+Package         | Library
+-------------------------
+standard        | std
+std_logic_1164  | ieee
+-------------------------

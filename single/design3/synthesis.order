@@ -1,0 +1,17 @@
+i<>.\src\alu.vhd
+i<>.\src\control.vhd
+i<>.\src\datamemory.vhd
+i<>.\src\instructionmemory.vhd
+i<>.\src\mips.vhd
+i<>.\src\MIPsDiagram.bde
+i<>.\src\mux.vhd
+i<>.\src\registerfile.vhd
+i<>.\src\sign_extender.vhd
+i<>.\src\alu_TB.vhd
+i<>.\src\control_TB.vhd
+i<>.\src\datamemory_TB.vhd
+i<>.\src\instructionmemory_TB.vhd
+i<>.\src\MIPS_TB.vhd
+i<>.\src\MUX_TB.vhd
+i<>.\src\registerfile_TB.vhd
+i<>.\src\SignE_TB.vhd

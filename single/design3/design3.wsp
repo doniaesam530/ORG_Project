@@ -1,0 +1,11 @@
+[General]
+CurrentVersion=103
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+design3=1
+Built-in symbols=0
+[CACHEDOC|Aldec.BDE.7|c:\My_Designs\design3\design3\src\MIPsDiagram.bde|]
+PROBEBAL=0
+[CACHEDOC|Aldec.Project.Generic.7|C:\Users\User\Desktop\design3\design3\design3.adf|]
+Path=
+[Gui config]
+RunFor=100 ns

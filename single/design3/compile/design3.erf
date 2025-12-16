@@ -1,0 +1,5 @@
+MESSAGE "File: c:\My_Designs\design3\design3\src\mips.vhd" 
+MESSAGE "Compile Entity "MIPs"" 
+MESSAGE "Entity `MIPs' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "MIPs" of Entity "MIPs"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

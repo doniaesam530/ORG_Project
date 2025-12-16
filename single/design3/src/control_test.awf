@@ -1,0 +1,42 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 100000
+I 1 "a#28#std_logic_vector(5 downto 0)1 ricd5 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS IN 1 1 6 "UUT/opCode"
+$SC 2-7
+$BUS IN 8 1 6 "UUT/funct"
+$SC 9-+5
+I 3 "a#28#std_logic_vector(2 downto 0)1 ricd2 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS S +1 3 3 "UUT/op"
+$SC +1-+2
+$S +1 2 "UUT/RegDst"
+$S +1 2 "UUT/Branch"
+$S +1 2 "UUT/memRead"
+$S +1 2 7 0 Write
+$S +1 2 7 0 ToReg
+$S +1 2 "UUT/ALUsrc"
+$S +1 2 "UUT/RegWrite"
+P 0 1-25 CS "0"
+P 0 1-15/7 Radix "2"
+$WAVES +1 +1 +3-+4
+=0 D 0 1
+$VALUES
+V 1
+0
+$END
+$WAVES 18 +1
+*0
+$VALUES
+V 1
+1
+$END
+$WAVES +6
+*0
+=1 T 10k
+$VALUES
+V 2
+0
+1
+$END
+$ENDWAVE

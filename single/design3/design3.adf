@@ -1,0 +1,99 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=design3
+
+[Library]
+design3=.\design3.lib
+
+[$LibMap$]
+design3=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/alu.vhd=-1
+/control.vhd=-1
+/datamemory.vhd=-1
+/instructionmemory.vhd=-1
+/mips.vhd=-1
+/MIPsDiagram.bak=-1
+/MIPsDiagram.bde=-1
+/mux.vhd=-1
+/registerfile.vhd=-1
+/sign_extender.vhd=-1
+/alu_TB.vhd=-1
+/alu_TB_runtest.do=-1
+/control_TB.vhd=-1
+/control_TB_runtest.do=-1
+/datamemory_TB.vhd=-1
+/datamemory_TB_runtest.do=-1
+/instructionmemory_TB.vhd=-1
+/instructionmemory_TB_runtest.do=-1
+/MIPS_TB.vhd=-1
+/mips_TB_runtest.do=-1
+/MUX_TB.vhd=-1
+/registerfile_TB.vhd=-1
+/registerfile_TB_runtest.do=-1
+/SignE_TB.vhd=-1
+/ALU_test.awf=-1
+/control_test.awf=-1
+/datamemory_test.awf=-1
+/Final Simulation.awf=-1
+/InstructionMemory_test.awf=-1
+/RegisterFile_test.awf=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\alu.vhd=VHDL Source Code
+.\src\control.vhd=VHDL Source Code
+.\src\datamemory.vhd=VHDL Source Code
+.\src\instructionmemory.vhd=VHDL Source Code
+.\src\mips.vhd=VHDL Source Code
+.\src\MIPsDiagram.bak=External File
+.\src\MIPsDiagram.bde=Block Diagram
+.\src\mux.vhd=VHDL Source Code
+.\src\registerfile.vhd=VHDL Source Code
+.\src\sign_extender.vhd=VHDL Source Code
+.\src\alu_TB.vhd=VHDL Source Code
+.\src\alu_TB_runtest.do=Macro
+.\src\control_TB.vhd=VHDL Source Code
+.\src\control_TB_runtest.do=Macro
+.\src\datamemory_TB.vhd=VHDL Source Code
+.\src\datamemory_TB_runtest.do=Macro
+.\src\instructionmemory_TB.vhd=VHDL Source Code
+.\src\instructionmemory_TB_runtest.do=Macro
+.\src\MIPS_TB.vhd=VHDL Source Code
+.\src\mips_TB_runtest.do=Macro
+.\src\MUX_TB.vhd=VHDL Source Code
+.\src\registerfile_TB.vhd=VHDL Source Code
+.\src\registerfile_TB_runtest.do=Macro
+.\src\SignE_TB.vhd=VHDL Source Code
+.\src\ALU_test.awf=Waveform File
+.\src\control_test.awf=Waveform File
+.\src\datamemory_test.awf=Waveform File
+.\src\Final Simulation.awf=Waveform File
+.\src\InstructionMemory_test.awf=Waveform File
+.\src\RegisterFile_test.awf=Waveform File
+.\src\Waveform Editor 1.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=control_tb|tb_architecture|0 
+ShowHide=ShowTopLevel
+Selected=
