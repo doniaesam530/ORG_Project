@@ -1,0 +1,39 @@
+elbread.dll ver. 1.0.5.365 Wed Dec 17 17:27:11 2025
+
+
+----------------------------------------------------------
+Entity                | Architecture             | Library
+----------------------------------------------------------
+segmented_mips_tb     | segmented_mips_tb_arc    | design0
+segmented_mips        | segmented_mips_arc       | design0
+instruction_fetching  | instruction_fetching_arc | design0
+instruction_decoding  | instruction_decoding_arc | design0
+execution             | execution_arc            | design0
+memory_access         | memory_access_arc        | design0
+write_back            | write_back_arc           | design0
+adder                 | adder_arc                | design0
+reg                   | reg_arc                  | design0
+instruction_memory    | instruction_memory_arc   | design0
+if_id_registers       | if_id_registers_arc      | design0
+full_adder            | full_adder_arc           | design0
+registers             | registers_arc            | design0
+control_unit          | control_unit_arc         | design0
+id_ex_registers       | id_ex_registers_arc      | design0
+alu_control           | alu_control_arc          | design0
+alu                   | alu_arc                  | design0
+ex_mem_registers      | ex_mem_registers_arc     | design0
+alu_1bit              | alu_1bit_arc             | design0
+data_memory           | data_memory_arc          | design0
+mem_wb_registers      | mem_wb_registers_arc     | design0
+----------------------------------------------------------
+
+------------------------------
+Package              | Library
+------------------------------
+standard             | std
+std_logic_1164       | ieee
+numeric_std          | ieee
+segm_mips_const_pkg  | design0
+records_pkg          | design0
+textio               | std
+------------------------------

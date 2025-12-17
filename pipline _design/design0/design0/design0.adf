@@ -1,0 +1,86 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=design0
+
+[Library]
+design0=.\design0.lib
+
+[$LibMap$]
+design0=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=segmented_mips_tb|segmented_mips_tb_arc|0  
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/write_back.vhd=-1
+/segmented_mips_tb.vhd=-1
+/segmented_mips.vhd=-1
+/segm_mips_const_pkg.vhd=-1
+/registers.vhd=-1
+/reg.vhd=-1
+/records_pkg.vhd=-1
+/memory_access.vhd=-1
+/mem_wb_registers.vhd=-1
+/instruction_memory.vhd=-1
+/instruction_fetching.vhd=-1
+/instruction_decoding.vhd=-1
+/if_id_registers.vhd=-1
+/id_ex_registers.vhd=-1
+/full_adder.vhd=-1
+/execution.vhd=-1
+/ex_mem_registers.vhd=-1
+/data_memory.vhd=-1
+/control_unit.vhd=-1
+/alu_control.vhd=-1
+/alu_1bit.vhd=-1
+/alu.vhd=-1
+/adder.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\write_back.vhd=VHDL Source Code
+.\src\segmented_mips_tb.vhd=VHDL Source Code
+.\src\segmented_mips.vhd=VHDL Source Code
+.\src\segm_mips_const_pkg.vhd=VHDL Source Code
+.\src\registers.vhd=VHDL Source Code
+.\src\reg.vhd=VHDL Source Code
+.\src\records_pkg.vhd=VHDL Source Code
+.\src\memory_access.vhd=VHDL Source Code
+.\src\mem_wb_registers.vhd=VHDL Source Code
+.\src\instruction_memory.vhd=VHDL Source Code
+.\src\instruction_fetching.vhd=VHDL Source Code
+.\src\instruction_decoding.vhd=VHDL Source Code
+.\src\if_id_registers.vhd=VHDL Source Code
+.\src\id_ex_registers.vhd=VHDL Source Code
+.\src\full_adder.vhd=VHDL Source Code
+.\src\execution.vhd=VHDL Source Code
+.\src\ex_mem_registers.vhd=VHDL Source Code
+.\src\data_memory.vhd=VHDL Source Code
+.\src\control_unit.vhd=VHDL Source Code
+.\src\alu_control.vhd=VHDL Source Code
+.\src\alu_1bit.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\adder.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+

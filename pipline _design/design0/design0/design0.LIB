@@ -1,0 +1,236 @@
+timestamp=1765986480762
+
+[adder]
+A/adder_arc=A/ADDER_ARC 21|./src/adder.vhd|16|1*763040
+B/adder_arc=3*306533
+H/adder_arc=0*1014206
+R=./src/adder.vhd|27
+V=0*211864
+
+[alu]
+A/alu_arc=A/ALU_ARC 21|./src/alu.vhd|20|1*756469
+B/alu_arc=3*300514
+H/alu_arc=0*1009230
+R=./src/alu.vhd|30
+V=0*205016
+
+[alu_1bit]
+A/alu_1bit_arc=A/ALU_1BIT_ARC 21|./src/alu_1bit.vhd|20|1*752898
+B/alu_1bit_arc=3*296986
+H/alu_1bit_arc=0*1007057
+R=./src/alu_1bit.vhd|26
+V=0*197557
+
+[alu_control]
+A/alu_control_arc=A/ALU_CONTROL_ARC 21|./src/alu_control.vhd|20|1*750955
+B/alu_control_arc=3*295591
+H/alu_control_arc=0*1006456
+R=./src/alu_control.vhd|30
+V=0*193474
+
+[control_unit]
+A/control_unit_arc=A/CONTROL_UNIT_ARC 21|./src/control_unit.vhd|29|1*746770
+B/control_unit_arc=3*290071
+H/control_unit_arc=0*1004956
+R=./src/control_unit.vhd|31
+V=0*190295
+
+[data_memory]
+A/data_memory_arc=A/DATA_MEMORY_ARC 21|./src/data_memory.vhd|25|1*743899
+B/data_memory_arc=3*286856
+H/data_memory_arc=0*1002448
+R=./src/data_memory.vhd|34
+V=0*184657
+
+[ex_mem_registers]
+A/ex_mem_registers_arc=A/EX_MEM_REGISTERS_ARC 21|./src/ex_mem_registers.vhd|32|1*739251
+B/ex_mem_registers_arc=3*284604
+H/ex_mem_registers_arc=0*1001433
+R=./src/ex_mem_registers.vhd|31
+V=0*173968
+
+[execution]
+A/execution_arc=A/EXECUTION_ARC 21|./src/execution.vhd|35|1*725336
+B/execution_arc=3*281979
+H/execution_arc=0*982217
+R=./src/execution.vhd|31
+V=0*161474
+
+[full_adder]
+A/full_adder_arc=A/FULL_ADDER_ARC 21|./src/full_adder.vhd|15|1*723459
+B/full_adder_arc=3*280233
+H/full_adder_arc=0*981562
+R=./src/full_adder.vhd|8
+V=0*137632
+
+[id_ex_registers]
+A/id_ex_registers_arc=A/ID_EX_REGISTERS_ARC 21|./src/id_ex_registers.vhd|44|1*717691
+B/id_ex_registers_arc=3*277502
+H/id_ex_registers_arc=0*980530
+R=./src/id_ex_registers.vhd|32
+V=0*126937
+
+[if_id_registers]
+A/if_id_registers_arc=A/IF_ID_REGISTERS_ARC 21|./src/if_id_registers.vhd|20|1*715181
+B/if_id_registers_arc=3*276451
+H/if_id_registers_arc=0*979887
+R=./src/if_id_registers.vhd|31
+V=0*118041
+
+[instruction_decoding]
+A/instruction_decoding_arc=A/INSTRUCTION_DECODING_ARC 21|./src/instruction_decoding.vhd|39|1*699804
+B/instruction_decoding_arc=3*275648
+H/instruction_decoding_arc=0*957022
+R=./src/instruction_decoding.vhd|32
+V=0*107695
+
+[instruction_fetching]
+A/instruction_fetching_arc=A/INSTRUCTION_FETCHING_ARC 21|./src/instruction_fetching.vhd|24|1*691147
+B/instruction_fetching_arc=3*274212
+H/instruction_fetching_arc=0*942639
+R=./src/instruction_fetching.vhd|31
+V=0*78187
+
+[instruction_memory]
+A/instruction_memory_arc=A/INSTRUCTION_MEMORY_ARC 21|./src/instruction_memory.vhd|22|1*682719
+B/instruction_memory_arc=3*264182
+H/instruction_memory_arc=0*937831
+R=./src/instruction_memory.vhd|33
+V=0*60136
+
+[mem_wb_registers]
+A/mem_wb_registers_arc=A/MEM_WB_REGISTERS_ARC 21|./src/mem_wb_registers.vhd|29|1*679195
+B/mem_wb_registers_arc=3*262650
+H/mem_wb_registers_arc=0*937070
+R=./src/mem_wb_registers.vhd|32
+V=0*49153
+
+[memory_access]
+A/memory_access_arc=A/MEMORY_ACCESS_ARC 21|./src/memory_access.vhd|35|1*670225
+B/memory_access_arc=3*261241
+H/memory_access_arc=0*925728
+R=./src/memory_access.vhd|32
+V=0*39254
+
+[records_pkg]
+E=1*12059
+R=./src/records_pkg.vhd|28
+V=0*23288
+
+[reg]
+A/reg_arc=A/REG_ARC 21|./src/reg.vhd|19|1*668468
+B/reg_arc=3*260002
+H/reg_arc=0*925318
+R=./src/reg.vhd|28
+V=0*20327
+
+[registers]
+A/registers_arc=A/REGISTERS_ARC 21|./src/registers.vhd|26|1*662007
+B/registers_arc=3*253117
+H/registers_arc=0*920568
+R=./src/registers.vhd|31
+V=0*14004
+
+[segm_mips_const_pkg]
+E=1*1456
+R=./src/segm_mips_const_pkg.vhd|27
+V=0*3782
+
+[segmented_mips]
+A/segmented_mips_arc=A/SEGMENTED_MIPS_ARC 21|./src/segmented_mips.vhd|20|1*642357
+H/segmented_mips_arc=0*877173
+R=./src/segmented_mips.vhd|33
+V=0*258493
+
+[segmented_mips_tb]
+A/segmented_mips_tb_arc=A/SEGMENTED_MIPS_TB_ARC 21|./src/segmented_mips_tb.vhd|10|1*640856
+B/segmented_mips_tb_arc=3*251664
+H/segmented_mips_tb_arc=0*875867
+R=./src/segmented_mips_tb.vhd|27
+V=0*1905
+
+[write_back]
+A/write_back_arc=A/WRITE_BACK_ARC 21|./src/write_back.vhd|26|1*637752
+B/write_back_arc=3*250270
+H/write_back_arc=0*875157
+R=./src/write_back.vhd|31
+V=0*261812
+
+[~A]
+./src/adder.vhd~ADDER=0*207280*207656
+./src/adder.vhd~ADDER_ARCADDER=0*1016649*1017321
+./src/alu.vhd~ALU=0*198540*198953
+./src/alu.vhd~ALU_ARCALU=0*1012415*1014142
+./src/alu_1bit.vhd~ALU_1BIT=0*194254*194629
+./src/alu_1bit.vhd~ALU_1BIT_ARCALU_1BIT=0*1008182*1009151
+./src/alu_control.vhd~ALU_CONTROL=0*191779*192138
+./src/alu_control.vhd~ALU_CONTROL_ARCALU_CONTROL=0*1006561*1006969
+./src/control_unit.vhd~CONTROL_UNIT=0*187170*187723
+./src/control_unit.vhd~CONTROL_UNIT_ARCCONTROL_UNIT=0*1005387*1006365
+./src/data_memory.vhd~DATA_MEMORY=0*180346*180894
+./src/data_memory.vhd~DATA_MEMORY_ARCDATA_MEMORY=0*1004269*1004868
+./src/ex_mem_registers.vhd~EX_MEM_REGISTERS=0*169254*170294
+./src/ex_mem_registers.vhd~EX_MEM_REGISTERS_ARCEX_MEM_REGISTERS=0*1001549*1002345
+./src/execution.vhd~EXECUTION=0*138169*139273
+./src/execution.vhd~EXECUTION_ARCEXECUTION=0*997938*1001351
+./src/full_adder.vhd~FULL_ADDER=0*136110*136410
+./src/full_adder.vhd~FULL_ADDER_ARCFULL_ADDER=0*981850*982132
+./src/id_ex_registers.vhd~ID_EX_REGISTERS=0*121272*122519
+./src/id_ex_registers.vhd~ID_EX_REGISTERS_ARCID_EX_REGISTERS=0*980644*981462
+./src/if_id_registers.vhd~IF_ID_REGISTERS=0*115389*115958
+./src/if_id_registers.vhd~IF_ID_REGISTERS_ARCIF_ID_REGISTERS=0*980000*980430
+./src/instruction_decoding.vhd~INSTRUCTION_DECODING=0*80824*81901
+./src/instruction_decoding.vhd~INSTRUCTION_DECODING_ARCINSTRUCTION_DECODING=0*976085*979772
+./src/instruction_fetching.vhd~INSTRUCTION_FETCHING=0*61891*62468
+./src/instruction_fetching.vhd~INSTRUCTION_FETCHING_ARCINSTRUCTION_FETCHING=0*954523*956907
+./src/instruction_memory.vhd~INSTRUCTION_MEMORY=0*53895*54340
+./src/instruction_memory.vhd~INSTRUCTION_MEMORY_ARCINSTRUCTION_MEMORY=0*937950*942530
+./src/mem_wb_registers.vhd~MEM_WB_REGISTERS=0*45648*46417
+./src/mem_wb_registers.vhd~MEM_WB_REGISTERS_ARCMEM_WB_REGISTERS=0*937186*937728
+./src/memory_access.vhd~MEMORY_ACCESS=0*24398*25373
+./src/memory_access.vhd~MEMORY_ACCESS_ARCMEMORY_ACCESS=0*935070*936976
+./src/records_pkg.vhd~RECORDS_PKG=0*22047*22852
+./src/reg.vhd~REG=0*18707*19043
+./src/reg.vhd~REG_ARCREG=0*925407*925664
+./src/registers.vhd~REGISTERS=0*6827*7483
+./src/registers.vhd~REGISTERS_ARCREGISTERS=0*922526*925236
+./src/segm_mips_const_pkg.vhd~SEGM_MIPS_CONST_PKG=0*2003*2753
+./src/segmented_mips.vhd~SEGMENTED_MIPS=0*214198*214527
+./src/segmented_mips.vhd~SEGMENTED_MIPS_ARCSEGMENTED_MIPS=0*913599*920471
+./src/segmented_mips_tb.vhd~SEGMENTED_MIPS_TB=0*0*211
+./src/segmented_mips_tb.vhd~SEGMENTED_MIPS_TB_ARCSEGMENTED_MIPS_TB=0*876460*877067
+./src/write_back.vhd~WRITE_BACK=0*258768*259423
+./src/write_back.vhd~WRITE_BACK_ARCWRITE_BACK=0*875260*875782
+ModifyID=725
+Version=73
+
+[~MFT]
+0=751|0design0.mgf|1017321|751701
+1=214|1design0.mgf|763040|633737
+3=201|3design0.mgf|306533|250270
+
+[~U]
+adder=ADDER 11|0*210902|0*211158
+alu=ALU 11|0*203986|0*204268
+alu_1bit=ALU_1BIT 11|0*196869|0*197171
+alu_control=ALU_CONTROL 11|0*192812|0*193053
+control_unit=CONTROL_UNIT 11|0*189298|0*189684
+data_memory=DATA_MEMORY 11|0*183475|0*183810
+ex_mem_registers=EX_MEM_REGISTERS 11|0*171392|0*172163
+execution=EXECUTION 11|0*158595|0*159408
+full_adder=FULL_ADDER 11|0*137136|0*137336
+id_ex_registers=ID_EX_REGISTERS 11|0*123632|0*124556
+if_id_registers=IF_ID_REGISTERS 11|0*116682|0*117052
+instruction_decoding=INSTRUCTION_DECODING 11|0*104888|0*105672
+instruction_fetching=INSTRUCTION_FETCHING 11|0*76943|0*77299
+instruction_memory=INSTRUCTION_MEMORY 11|0*59235|0*59476
+mem_wb_registers=MEM_WB_REGISTERS 11|0*47261|0*47798
+memory_access=MEMORY_ACCESS 11|0*36794|0*37505
+records_pkg=RECORDS_PKG 3||0*22925
+reg=REG 11|0*19510|0*19741
+registers=REGISTERS 11|0*12302|0*12734
+segm_mips_const_pkg=SEGM_MIPS_CONST_PKG 3||0*2842
+segmented_mips=SEGMENTED_MIPS 11|0*258027|0*258184
+segmented_mips_tb=SEGMENTED_MIPS_TB 11|0*1602|0*1694
+write_back=WRITE_BACK 11|0*260204|0*260649
+

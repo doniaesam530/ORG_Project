@@ -1,0 +1,189 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0.aws" design added.
+acom $DSN/src/write_back.vhd $DSN/src/segmented_mips_tb.vhd $DSN/src/segmented_mips.vhd $DSN/src/segm_mips_const_pkg.vhd $DSN/src/registers.vhd $DSN/src/reg.vhd $DSN/src/records_pkg.vhd $DSN/src/memory_access.vhd $DSN/src/mem_wb_registers.vhd $DSN/src/instruction_memory.vhd $DSN/src/instruction_fetching.vhd $DSN/src/instruction_decoding.vhd $DSN/src/if_id_registers.vhd $DSN/src/id_ex_registers.vhd $DSN/src/full_adder.vhd $DSN/src/execution.vhd $DSN/src/ex_mem_registers.vhd $DSN/src/data_memory.vhd $DSN/src/control_unit.vhd $DSN/src/alu_control.vhd $DSN/src/alu_1bit.vhd $DSN/src/alu.vhd $DSN/src/adder.vhd
+# Compile...
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\write_back.vhd
+# Compile Entity "WRITE_BACK"
+# Entity `WRITE_BACK' has been skipped - no difference detected.
+# Compile Architecture "WRITE_BACK_ARC" of Entity "WRITE_BACK"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segmented_mips_tb.vhd
+# Compile Entity "SEGMENTED_MIPS_TB"
+# Entity `SEGMENTED_MIPS_TB' has been skipped - no difference detected.
+# Compile Architecture "SEGMENTED_MIPS_TB_ARC" of Entity "SEGMENTED_MIPS_TB"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segmented_mips.vhd
+# Compile Entity "SEGMENTED_MIPS"
+# Entity `SEGMENTED_MIPS' has been skipped - no difference detected.
+# Compile Architecture "SEGMENTED_MIPS_ARC" of Entity "SEGMENTED_MIPS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segm_mips_const_pkg.vhd
+# Compile Package "SEGM_MIPS_CONST_PKG"
+# Package `SEGM_MIPS_CONST_PKG' has been skipped - no difference detected.
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\registers.vhd
+# Compile Entity "REGISTERS"
+# Entity `REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "REGISTERS_ARC" of Entity "REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\reg.vhd
+# Compile Entity "REG"
+# Entity `REG' has been skipped - no difference detected.
+# Compile Architecture "REG_ARC" of Entity "REG"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\records_pkg.vhd
+# Compile Package "RECORDS_PKG"
+# Package `RECORDS_PKG' has been skipped - no difference detected.
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\memory_access.vhd
+# Compile Entity "MEMORY_ACCESS"
+# Entity `MEMORY_ACCESS' has been skipped - no difference detected.
+# Compile Architecture "MEMORY_ACCESS_ARC" of Entity "MEMORY_ACCESS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\mem_wb_registers.vhd
+# Compile Entity "MEM_WB_REGISTERS"
+# Entity `MEM_WB_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "MEM_WB_REGISTERS_ARC" of Entity "MEM_WB_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_memory.vhd
+# Compile Entity "INSTRUCTION_MEMORY"
+# Entity `INSTRUCTION_MEMORY' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_MEMORY_ARC" of Entity "INSTRUCTION_MEMORY"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_fetching.vhd
+# Compile Entity "INSTRUCTION_FETCHING"
+# Entity `INSTRUCTION_FETCHING' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_FETCHING_ARC" of Entity "INSTRUCTION_FETCHING"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_decoding.vhd
+# Compile Entity "INSTRUCTION_DECODING"
+# Entity `INSTRUCTION_DECODING' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_DECODING_ARC" of Entity "INSTRUCTION_DECODING"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\if_id_registers.vhd
+# Compile Entity "IF_ID_REGISTERS"
+# Entity `IF_ID_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "IF_ID_REGISTERS_ARC" of Entity "IF_ID_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\id_ex_registers.vhd
+# Compile Entity "ID_EX_REGISTERS"
+# Entity `ID_EX_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "ID_EX_REGISTERS_ARC" of Entity "ID_EX_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\full_adder.vhd
+# Compile Entity "FULL_ADDER"
+# Entity `FULL_ADDER' has been skipped - no difference detected.
+# Compile Architecture "FULL_ADDER_ARC" of Entity "FULL_ADDER"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\execution.vhd
+# Compile Entity "EXECUTION"
+# Entity `EXECUTION' has been skipped - no difference detected.
+# Compile Architecture "EXECUTION_ARC" of Entity "EXECUTION"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\ex_mem_registers.vhd
+# Compile Entity "EX_MEM_REGISTERS"
+# Entity `EX_MEM_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "EX_MEM_REGISTERS_ARC" of Entity "EX_MEM_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\data_memory.vhd
+# Compile Entity "DATA_MEMORY"
+# Entity `DATA_MEMORY' has been skipped - no difference detected.
+# Compile Architecture "DATA_MEMORY_ARC" of Entity "DATA_MEMORY"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\control_unit.vhd
+# Compile Entity "CONTROL_UNIT"
+# Entity `CONTROL_UNIT' has been skipped - no difference detected.
+# Compile Architecture "CONTROL_UNIT_ARC" of Entity "CONTROL_UNIT"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu_control.vhd
+# Compile Entity "ALU_CONTROL"
+# Entity `ALU_CONTROL' has been skipped - no difference detected.
+# Compile Architecture "ALU_CONTROL_ARC" of Entity "ALU_CONTROL"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu_1bit.vhd
+# Compile Entity "ALU_1BIT"
+# Entity `ALU_1BIT' has been skipped - no difference detected.
+# Compile Architecture "ALU_1BIT_ARC" of Entity "ALU_1BIT"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu.vhd
+# Compile Entity "ALU"
+# Entity `ALU' has been skipped - no difference detected.
+# Compile Architecture "ALU_ARC" of Entity "ALU"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\adder.vhd
+# Compile Entity "ADDER"
+# Entity `ADDER' has been skipped - no difference detected.
+# Compile Architecture "ADDER_ARC" of Entity "ADDER"
+# Compile success 0 Errors 0 Warnings  Analysis time :  4.0 [s]
+acom $DSN/src/write_back.vhd $DSN/src/segmented_mips_tb.vhd $DSN/src/segmented_mips.vhd $DSN/src/segm_mips_const_pkg.vhd $DSN/src/registers.vhd $DSN/src/reg.vhd $DSN/src/records_pkg.vhd $DSN/src/memory_access.vhd $DSN/src/mem_wb_registers.vhd $DSN/src/instruction_memory.vhd $DSN/src/instruction_fetching.vhd $DSN/src/instruction_decoding.vhd $DSN/src/if_id_registers.vhd $DSN/src/id_ex_registers.vhd $DSN/src/full_adder.vhd $DSN/src/execution.vhd $DSN/src/ex_mem_registers.vhd $DSN/src/data_memory.vhd $DSN/src/control_unit.vhd $DSN/src/alu_control.vhd $DSN/src/alu_1bit.vhd $DSN/src/alu.vhd $DSN/src/adder.vhd
+# Compile...
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\write_back.vhd
+# Compile Entity "WRITE_BACK"
+# Entity `WRITE_BACK' has been skipped - no difference detected.
+# Compile Architecture "WRITE_BACK_ARC" of Entity "WRITE_BACK"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segmented_mips_tb.vhd
+# Compile Entity "SEGMENTED_MIPS_TB"
+# Entity `SEGMENTED_MIPS_TB' has been skipped - no difference detected.
+# Compile Architecture "SEGMENTED_MIPS_TB_ARC" of Entity "SEGMENTED_MIPS_TB"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segmented_mips.vhd
+# Compile Entity "SEGMENTED_MIPS"
+# Entity `SEGMENTED_MIPS' has been skipped - no difference detected.
+# Compile Architecture "SEGMENTED_MIPS_ARC" of Entity "SEGMENTED_MIPS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\segm_mips_const_pkg.vhd
+# Compile Package "SEGM_MIPS_CONST_PKG"
+# Package `SEGM_MIPS_CONST_PKG' has been skipped - no difference detected.
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\registers.vhd
+# Compile Entity "REGISTERS"
+# Entity `REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "REGISTERS_ARC" of Entity "REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\reg.vhd
+# Compile Entity "REG"
+# Entity `REG' has been skipped - no difference detected.
+# Compile Architecture "REG_ARC" of Entity "REG"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\records_pkg.vhd
+# Compile Package "RECORDS_PKG"
+# Package `RECORDS_PKG' has been skipped - no difference detected.
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\memory_access.vhd
+# Compile Entity "MEMORY_ACCESS"
+# Entity `MEMORY_ACCESS' has been skipped - no difference detected.
+# Compile Architecture "MEMORY_ACCESS_ARC" of Entity "MEMORY_ACCESS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\mem_wb_registers.vhd
+# Compile Entity "MEM_WB_REGISTERS"
+# Entity `MEM_WB_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "MEM_WB_REGISTERS_ARC" of Entity "MEM_WB_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_memory.vhd
+# Compile Entity "INSTRUCTION_MEMORY"
+# Entity `INSTRUCTION_MEMORY' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_MEMORY_ARC" of Entity "INSTRUCTION_MEMORY"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_fetching.vhd
+# Compile Entity "INSTRUCTION_FETCHING"
+# Entity `INSTRUCTION_FETCHING' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_FETCHING_ARC" of Entity "INSTRUCTION_FETCHING"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\instruction_decoding.vhd
+# Compile Entity "INSTRUCTION_DECODING"
+# Entity `INSTRUCTION_DECODING' has been skipped - no difference detected.
+# Compile Architecture "INSTRUCTION_DECODING_ARC" of Entity "INSTRUCTION_DECODING"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\if_id_registers.vhd
+# Compile Entity "IF_ID_REGISTERS"
+# Entity `IF_ID_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "IF_ID_REGISTERS_ARC" of Entity "IF_ID_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\id_ex_registers.vhd
+# Compile Entity "ID_EX_REGISTERS"
+# Entity `ID_EX_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "ID_EX_REGISTERS_ARC" of Entity "ID_EX_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\full_adder.vhd
+# Compile Entity "FULL_ADDER"
+# Entity `FULL_ADDER' has been skipped - no difference detected.
+# Compile Architecture "FULL_ADDER_ARC" of Entity "FULL_ADDER"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\execution.vhd
+# Compile Entity "EXECUTION"
+# Entity `EXECUTION' has been skipped - no difference detected.
+# Compile Architecture "EXECUTION_ARC" of Entity "EXECUTION"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\ex_mem_registers.vhd
+# Compile Entity "EX_MEM_REGISTERS"
+# Entity `EX_MEM_REGISTERS' has been skipped - no difference detected.
+# Compile Architecture "EX_MEM_REGISTERS_ARC" of Entity "EX_MEM_REGISTERS"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\data_memory.vhd
+# Compile Entity "DATA_MEMORY"
+# Entity `DATA_MEMORY' has been skipped - no difference detected.
+# Compile Architecture "DATA_MEMORY_ARC" of Entity "DATA_MEMORY"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\control_unit.vhd
+# Compile Entity "CONTROL_UNIT"
+# Entity `CONTROL_UNIT' has been skipped - no difference detected.
+# Compile Architecture "CONTROL_UNIT_ARC" of Entity "CONTROL_UNIT"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu_control.vhd
+# Compile Entity "ALU_CONTROL"
+# Entity `ALU_CONTROL' has been skipped - no difference detected.
+# Compile Architecture "ALU_CONTROL_ARC" of Entity "ALU_CONTROL"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu_1bit.vhd
+# Compile Entity "ALU_1BIT"
+# Entity `ALU_1BIT' has been skipped - no difference detected.
+# Compile Architecture "ALU_1BIT_ARC" of Entity "ALU_1BIT"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\alu.vhd
+# Compile Entity "ALU"
+# Entity `ALU' has been skipped - no difference detected.
+# Compile Architecture "ALU_ARC" of Entity "ALU"
+# File: C:\Users\User\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\design0 (2)\design0\design0\src\adder.vhd
+# Compile Entity "ADDER"
+# Entity `ADDER' has been skipped - no difference detected.
+# Compile Architecture "ADDER_ARC" of Entity "ADDER"
+# Compile success 0 Errors 0 Warnings  Analysis time :  5.0 [s]
